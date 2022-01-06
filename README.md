@@ -36,7 +36,11 @@
 
 ## Installation
 
-TBD
+Being in the repository root directory, run:
+
+```sh
+yarn
+```
 
 ## Running
 
@@ -60,7 +64,7 @@ yarn test
 
 ## Inspired by
 
-TBD
+[Develop and test React apps with React Query, MSW and React Testing Library (Dennis Kortsch)](https://www.denniskortsch.de/posts/msw-react-testing)
 
 ### License
 
