@@ -14,6 +14,7 @@
 - react
 - react-query
 - react-testing-library
+- starter
 - template
 - testing
 
