@@ -4,24 +4,29 @@
     </a>
 </div>
 
-# Мinimalistic CRA-in-TS starter with React Query using RTL and MSW for testing
+# Мinimalistic CRA starter with React Query using RTL and MSW for testing
 
 ## Feature tags
 
 - create-react-app
+- javascript
 - mock-server-worker
 - react
 - react-query
 - react-testing-library
 - template
 - testing
-- typescript
 
 ---
 
 ## Direct ancestors
 
-[***-msw,react-query, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
+[***- msw, react-query, rtl***: jest-starter](https://github.com/softspiders/jest-starter)
+
+## Direct descendants
+
+[***+ ts***: cra_ts_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
+
 
 ---
 
@@ -30,10 +35,6 @@
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 
 ## Installation
-
-Two steps are required:
-
-### Install *create-react-app*
 
 TBD
 
