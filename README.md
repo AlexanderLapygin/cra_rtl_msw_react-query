@@ -14,6 +14,7 @@
 - react
 - react-query
 - react-testing-library
+- rest
 - starter
 - template
 - testing
@@ -22,7 +23,7 @@
 
 ## Direct ancestors
 
-[***- msw, react-query, rtl***: jest-starter](https://github.com/softspiders/jest-starter)
+[***- msw, react-query, rest, rtl***: jest-starter](https://github.com/softspiders/jest-starter)
 
 ## Direct descendants
 
